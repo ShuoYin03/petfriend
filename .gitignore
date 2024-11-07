@@ -1,0 +1,39 @@
+# IDE files
+.idea/
+.vscode/
+
+# Dependencies
+node_modules/
+
+# Build output
+bin/
+obj/
+appsettings.Development.json
+appsettings.json
+# Launch settings
+Properties/launchSettings.json
+
+# Environment variables
+.env
+
+# Operating System
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Archives
+*.zip
+*.tar.gz
+
+# Database files
+*.sqlite
+*.db
+
+
+
+
