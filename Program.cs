@@ -1,7 +1,6 @@
 using petfriend_api.Database;
 using petfriend_api.Options;
 using petfriend_api.Database.MongoDatabaseClient;
-using petfriend_api.Models;
 
 var startup = new Startup();
 

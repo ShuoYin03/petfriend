@@ -1,6 +1,5 @@
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using petfriend_api.Database.MongoDatabaseCollection;
 
 public class Startup
 {

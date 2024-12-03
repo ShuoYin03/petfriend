@@ -19,7 +19,6 @@ public class OwnerProfileCollection
     public async Task InsertOwnerAsync(OwnerProfile ownerProfile)
     { 
         await _ownerProfileCollection.InsertOneAsync(ownerProfile);
-        return Ok;
     }
 
     public async Task<List<OwnerProfile>> GetAllOwnersAsync()
